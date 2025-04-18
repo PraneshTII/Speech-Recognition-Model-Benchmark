@@ -84,6 +84,7 @@ pip install faster-whisper
 Faster-Whisper models will be downloaded automatically when first used. For example:
 ```python
 from faster_whisper import WhisperModel
+model_size = "tiny.en"  # options are tiny.en, small.en, base.en, medium.en
 model = WhisperModel(model_size, device="cpu", compute_type="int8")
 ```
 
