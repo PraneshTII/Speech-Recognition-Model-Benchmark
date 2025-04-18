@@ -8,10 +8,7 @@ This tool allows you to benchmark and compare the performance of various speech 
 
 - **Real-Time Factor (RTF)** - How fast the model processes audio compared to audio duration
 - **Word Error Rate (WER)** - Accuracy of transcription (when reference transcriptions are provided)
-- **Memory Usage** - Peak memory consumption during transcription
-- **CPU Utilization** - CPU usage during processing
-- **Model Loading Time** - Time taken to load the model
-- **Latency** - Time to first output (for supported models)
+
 
 ## Directory Structure
 
