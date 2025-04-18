@@ -1,6 +1,7 @@
 # Speech Recognition Benchmark Tool
 
 A comprehensive benchmarking script for comparing speech recognition models across different frameworks (WhisperCPP, Faster-Whisper, and Vosk).
+All benchmarks are performed on Nvidia Jetson Orin AGX device.
 
 ## Overview
 
