@@ -209,12 +209,12 @@ Results are available in the `benchmark_results/` directory:
 
 Summarized Report: - [benchmark_report.md](/benchmark_results/benchmark_report.md)
 
-- [summary_audio_3m.png](charts/summary_audio_3m.png)
-- [summary_audio_2m.png](charts/summary_audio_2m.png)
-- [latency_comparison.png](charts/latency_comparison.png)
-- [summary_audio_1m.png](charts/summary_audio_1m.png)
-- [wer_comparison.png](charts/wer_comparison.png)
-- [rtf_comparison.png](charts/rtf_comparison.png)
+- [summary_audio_3m.png](/benchmark_results/charts/summary_audio_3m.png)
+- [summary_audio_2m.png](/benchmark_results/charts/summary_audio_2m.png)
+- [latency_comparison.png](/benchmark_results/charts/latency_comparison.png)
+- [summary_audio_1m.png](/benchmark_results/charts/summary_audio_1m.png)
+- [wer_comparison.png](/benchmark_results/charts/wer_comparison.png)
+- [rtf_comparison.png](/benchmark_results/charts/rtf_comparison.png)
 
 
 Note that WER does not account for semantic correctness - it's a strict word-level comparison. Two transcriptions with the same meaning but different wording will still show differences in WER.
