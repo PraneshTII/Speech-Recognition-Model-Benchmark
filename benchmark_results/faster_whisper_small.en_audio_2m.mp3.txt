@@ -1,0 +1,46 @@
+[0.00s -> 2.52s]  There is a garbage truck of plastic.
+[3.68s -> 7.14s]  Entering the ocean every minute,
+[7.16s -> 11.64s]  and countless birds and animals are dying just from encountering plastic.
+[12.80s -> 14.64s]  If you were to walk into a kitchen,
+[15.68s -> 17.30s]  sink, overflowing,
+[17.32s -> 19.30s]  water spilling all over the floor,
+[19.32s -> 20.82s]  soaking into the walls,
+[20.84s -> 23.14s]  you had to think fast. You're going to panic.
+[23.16s -> 24.70s]  What do you do first?
+[24.72s -> 26.94s]  Why don't we turn off the tap?
+[26.98s -> 30.96s]  We are the world's largest chain of stores for the ultra-poor,
+[30.98s -> 34.04s]  where everything in the store is available to be purchased
+[34.06s -> 36.24s]  using plastic garbage.
+[36.26s -> 38.12s]  School tuition,
+[38.14s -> 40.20s]  medical insurance,
+[40.22s -> 42.94s]  Wi-Fi, cell phone minutes, power.
+[42.96s -> 45.60s]  Our chain of stores in Haiti are more like community centers,
+[45.62s -> 48.04s]  where one of our collectors, Lisa Nasis,
+[48.06s -> 49.88s]  has the opportunity to earn a living
+[49.90s -> 52.32s]  by collecting material from door to door,
+[52.34s -> 53.72s]  from the streets.
+[53.74s -> 56.72s]  And at the end of her day, she gets to bring the material back to us,
+[56.72s -> 59.02s]  we weigh it, we check it for quality,
+[59.04s -> 61.78s]  and we transfer the value into her account.
+[61.80s -> 66.98s]  Lisa now has a steady, reliable source of income.
+[67.00s -> 69.54s]  See, I see social plastic
+[69.56s -> 71.74s]  as the Bitcoin for the earth.
+[71.76s -> 74.38s]  And the app adds rewards,
+[74.40s -> 76.14s]  incentives,
+[76.16s -> 78.26s]  group prizes,
+[78.28s -> 79.58s]  user rating,
+[79.60s -> 81.22s]  with gamified recycling.
+[81.24s -> 84.38s]  We add fun and formality
+[84.40s -> 86.38s]  into an informal industry.
+[86.38s -> 88.60s]  Now, that plastic,
+[88.62s -> 93.04s]  we sell it to suppliers of great brands like Marks & Spencer's,
+[93.06s -> 96.64s]  who are using social plastic directly into their manufacturing.
+[96.66s -> 99.54s]  We've closed the loop
+[99.58s -> 101.28s]  in the circular economy.
+[101.30s -> 103.26s]  And so now,
+[103.28s -> 107.00s]  we can all be a part of the solution
+[107.02s -> 108.56s]  and not the pollution.
+[108.58s -> 111.62s]  OK, maybe cleaning the ocean's futile.
+[111.64s -> 112.80s]  It might be.
+[112.82s -> 115.28s]  But preventing ocean plastic
+[115.28s -> 118.16s]  could be humanity's richest opportunity.

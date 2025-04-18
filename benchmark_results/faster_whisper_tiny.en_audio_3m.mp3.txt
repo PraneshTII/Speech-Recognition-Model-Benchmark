@@ -1,0 +1,55 @@
+[0.00s -> 8.28s]  Infiniti, in its simplest definition, it simply means, without limit, it's not a destination,
+[8.28s -> 9.72s]  it's not a size.
+[9.72s -> 13.64s]  We might have all first heard of no limit from mass to p in the 90s and there's no limit
+[13.64s -> 14.64s]  soldiers.
+[14.64s -> 18.12s]  Now, the easiest example of infinity comes from mathematics.
+[18.12s -> 23.96s]  For example, if I take the integers, the numbers 1, 2, 3, 4, I can continue on forever
+[23.96s -> 25.60s]  and it has no limit.
+[25.60s -> 29.76s]  But infinities have these crazy, strange properties.
+[29.76s -> 34.12s]  If you take the numbers between the whole numbers, take it for example, the numbers between
+[34.12s -> 35.36s]  1 and 2.
+[35.36s -> 41.76s]  There are more of them than there are integers, so not all infinities have the same sizes.
+[41.76s -> 44.76s]  And in physics, we encounter these infinite sums.
+[44.76s -> 49.92s]  Take, for example, if I add all the integers, but I double the integer every time.
+[49.92s -> 57.78s]  If I take 1, plus 2, plus 4, plus 8, plus 16, and I continue to infinity and I add
+[57.78s -> 61.36s]  up all those numbers, guess what it equals?
+[61.36s -> 64.68s]  It equals negative 1, believe it or not.
+[64.68s -> 68.00s]  If you stop before infinity, you get a really big number.
+[68.00s -> 71.48s]  But if you carry it out to infinity, you get negative 1.
+[71.48s -> 77.00s]  Now, mathematical abstraction is one thing, but when does infinity manifest itself in
+[77.00s -> 78.00s]  the real world?
+[78.00s -> 80.12s]  It's really difficult to find.
+[80.12s -> 85.32s]  For example, some people believe that space is infinite.
+[85.32s -> 89.48s]  We with our instruments, we can measure billions of light years.
+[89.48s -> 94.28s]  And what we've just discovered is that all of the universe that we can see out to
+[94.28s -> 99.76s]  our horizon, because beyond that, the light hasn't yet had time to reach us, is only
+[99.76s -> 104.04s]  this tiny region of all the universe that is.
+[104.04s -> 105.04s]  It is an infinite.
+[105.04s -> 107.44s]  In fact, no one really knows.
+[107.44s -> 110.32s]  But the universe may be like the surface of a ball.
+[110.32s -> 113.28s]  It has no end, but yet is finite.
+[113.28s -> 115.68s]  The universe may actually be like that.
+[115.68s -> 121.20s]  Now, there's another place in physics where we know that infinity actually does show up.
+[121.20s -> 126.80s]  If you take an elementary particle, say like an electron, as it travels through space,
+[126.80s -> 131.08s]  it can spontaneously become two photons, two particles of light.
+[131.08s -> 135.96s]  And each one of these can spontaneously become a matter and anti-matter particle.
+[135.96s -> 139.52s]  And each one of them can spontaneously become two photons.
+[139.52s -> 143.48s]  And each one of them can spontaneously become matter and anti-matter.
+[143.48s -> 148.68s]  And you end up with this infinite sum of possibilities and particles in photons.
+[148.68s -> 150.76s]  And does that really exist?
+[150.76s -> 151.96s]  Yes, it does.
+[151.96s -> 157.40s]  And the way we know is because when we do a calculation with quantum electrodynamics,
+[157.40s -> 163.36s]  and then we make a measurement, and we compare the prediction of the calculation with the measurement,
+[163.36s -> 167.32s]  is one of the most accurate predictions that science is actually able to make.
+[167.32s -> 170.52s]  They agree to 15 decimal places.
+[170.52s -> 175.00s]  And I'll challenge you to attempt to measure anything that even seven decimal places.
+[175.00s -> 178.60s]  Now, mathematical abstraction is one thing.
+[178.60s -> 182.88s]  The universe is one thing, and elementary particles is one thing.
+[182.88s -> 186.12s]  But where do infinities really impact our lives?
+[186.12s -> 191.84s]  In the words of default Chopra, you and I are infinite choice makers.
+[191.84s -> 200.88s]  We live in a field of all possibility where at all moments we have access to infinite choices.
+[200.88s -> 212.72s]  And I don't need to look any farther than my own life to recognize that just like adding the ever doubling integers to get bigger and bigger numbers actually ends up giving you a very small negative number.
+[212.72s -> 217.32s]  With some of all the choices that we make in our lives, even if many of them are negative,
+[217.32s -> 222.32s]  you can find that it sums to a very large positive value.
+[222.32s -> 227.60s]  And so for me, that infinity is hope, and that's the infinity that matters to me.
+[227.60s -> 228.16s]  Thank you.
