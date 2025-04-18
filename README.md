@@ -218,4 +218,3 @@ Summarized Report: - [benchmark_report.md](/benchmark_results/benchmark_report.m
 
 Note that WER does not account for semantic correctness - it's a strict word-level comparison. Two transcriptions with the same meaning but different wording will still show differences in WER.
 
-For Results, please refer to 
